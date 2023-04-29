@@ -37,7 +37,8 @@ Java Regex,Jsoup,Text Processing,String Tokenizer,Sorting,Boyer Moore
   <h3>Contact For More Information : </h3>
     
    Akhil Chintala : "https://www.linkedin.com/in/akhilchintala" <br>
-   Datta Sai Jonnadula : "https://www.linkedin.com/in/datta-sai-jonnadula-b84174132"
+   Datta Sai Jonnadula : "https://www.linkedin.com/in/datta-sai-jonnadula-b84174132" <br>
+   Auron Meera Syed : "https://www.linkedin.com/in/auron"
   
     
   
